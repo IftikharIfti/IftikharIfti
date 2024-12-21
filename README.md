@@ -34,7 +34,7 @@ Here are the tools and technologies I work with:
 
 ## 📜 Certifications
 - **Product Management Certificate** from **Human Development Network Bangladesh**
-
+- **Data Analytics Career Track** from **Bohubrihi**
 ---
 
 ## 🌟 Highlights
